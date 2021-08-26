@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1629981165 source:c:\users\login\hotelreservation\main.cpp
+	<iostream>
+	"Human.h"
+	"Monster.h"
+	"Guest.h"
+	"Hotel.h"
+
+1629857119 source:c:\users\login\hotelreservation\guest.cpp
+	"Guest.h"
+
+1629944308 c:\users\login\hotelreservation\guest.h
+	"Hotel.h"
+	<string>
+
+1629857119 source:c:\users\login\hotelreservation\human.cpp
+	"Human.h"
+
+1629945044 c:\users\login\hotelreservation\human.h
+	"Hotel.h"
+	"Guest.h"
+
+1629857198 source:c:\users\login\hotelreservation\monster.cpp
+	"Monster.h"
+
+1629945347 c:\users\login\hotelreservation\monster.h
+	"Guest.h"
+	"Hotel.h"
+
+1629896462 source:c:\users\login\hotelreservation\hotel.cpp
+	"Hotel.h"
+
+1629943337 c:\users\login\hotelreservation\hotel.h
+	<iostream>
+
